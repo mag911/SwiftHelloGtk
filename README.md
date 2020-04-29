@@ -4,7 +4,7 @@ A simple 'hello-world' app using SwiftGtk
 ## Building
 Make sure you have all the prerequisites installed (see below).  After that, you can simply clone this repository and build the command line executable (be patient, this will download all the required dependencies and take a while to compile) using
 
-	git clone https://github.com/rhx/SwiftHelloGtk.git
+	git clone https://github.com/mag911/SwiftHelloGtk.git
 	cd SwiftHelloGtk
 	./build.sh
 	
